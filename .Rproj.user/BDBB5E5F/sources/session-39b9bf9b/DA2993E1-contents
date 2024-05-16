@@ -1,9 +1,0 @@
-# Preface {.unnumbered}
-
-Hello! Welcome to My Open Textbook!
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
